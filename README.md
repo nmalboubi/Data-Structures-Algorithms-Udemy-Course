@@ -6,6 +6,6 @@ Heaps, Hash Tables, Dictionaries, and Ternary Search Trees
 
 Studied and implemented the following Algorithms: graph algorithms (Breadth First Search and Depth First Search), shortest path algorithms 
 (Dijkstra, Bellman-Ford), spanning trees graph algorithms (Kruskal, Prims-Jarnik), and sorting algorithms (Bubble Sort, Selection Sort, Quick
-Sort, Merge Sort, and Merge Sort).
+Sort, and Merge Sort).
 
 Projects and Coursework Notes from the class are labeled as such in this repository
