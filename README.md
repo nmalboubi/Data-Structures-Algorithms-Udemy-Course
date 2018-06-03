@@ -1,4 +1,4 @@
-# Data-Structures-Algorithms-Udemy-Course-
+# Data-Structures-Algorithms-Udemy-Course
 Examples of projects and coursework notes from "Data Structures and Algorithms in Python" course on www.udemy.com, taught by Holczer Balazs
 
 Studied and implemented the following Data Structures: Arrays, Linked-Lists, Stacks, Queues, Binary Search Trees, AVL Trees, Red-Black Trees, 
